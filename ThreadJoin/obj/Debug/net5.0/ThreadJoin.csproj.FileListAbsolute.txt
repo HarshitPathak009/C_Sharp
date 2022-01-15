@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/ThreadJoin/bin/Debug/net5.0/ThreadJoin
+/home/harshit/Desktop/C#/ThreadJoin/bin/Debug/net5.0/ThreadJoin.deps.json
+/home/harshit/Desktop/C#/ThreadJoin/bin/Debug/net5.0/ThreadJoin.runtimeconfig.json
+/home/harshit/Desktop/C#/ThreadJoin/bin/Debug/net5.0/ThreadJoin.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/ThreadJoin/bin/Debug/net5.0/ThreadJoin.dll
+/home/harshit/Desktop/C#/ThreadJoin/bin/Debug/net5.0/ref/ThreadJoin.dll
+/home/harshit/Desktop/C#/ThreadJoin/bin/Debug/net5.0/ThreadJoin.pdb
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.AssemblyInfo.cs
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.dll
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ref/ThreadJoin.dll
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.pdb
+/home/harshit/Desktop/C#/ThreadJoin/obj/Debug/net5.0/ThreadJoin.genruntimeconfig.cache

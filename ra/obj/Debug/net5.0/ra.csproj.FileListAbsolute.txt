@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/ra/bin/Debug/net5.0/ra
+/home/harshit/Desktop/C#/ra/bin/Debug/net5.0/ra.deps.json
+/home/harshit/Desktop/C#/ra/bin/Debug/net5.0/ra.runtimeconfig.json
+/home/harshit/Desktop/C#/ra/bin/Debug/net5.0/ra.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/ra/bin/Debug/net5.0/ra.dll
+/home/harshit/Desktop/C#/ra/bin/Debug/net5.0/ref/ra.dll
+/home/harshit/Desktop/C#/ra/bin/Debug/net5.0/ra.pdb
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.AssemblyInfo.cs
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.dll
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ref/ra.dll
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.pdb
+/home/harshit/Desktop/C#/ra/obj/Debug/net5.0/ra.genruntimeconfig.cache

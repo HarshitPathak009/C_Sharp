@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.AssemblyInfo.cs
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/getset/bin/Debug/net5.0/getset
+/home/harshit/Desktop/C#/getset/bin/Debug/net5.0/getset.deps.json
+/home/harshit/Desktop/C#/getset/bin/Debug/net5.0/getset.runtimeconfig.json
+/home/harshit/Desktop/C#/getset/bin/Debug/net5.0/getset.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/getset/bin/Debug/net5.0/getset.dll
+/home/harshit/Desktop/C#/getset/bin/Debug/net5.0/ref/getset.dll
+/home/harshit/Desktop/C#/getset/bin/Debug/net5.0/getset.pdb
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.dll
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/ref/getset.dll
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.pdb
+/home/harshit/Desktop/C#/getset/obj/Debug/net5.0/getset.genruntimeconfig.cache

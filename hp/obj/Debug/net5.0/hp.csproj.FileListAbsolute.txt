@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/hp/bin/Debug/net5.0/hp
+/home/harshit/Desktop/C#/hp/bin/Debug/net5.0/hp.deps.json
+/home/harshit/Desktop/C#/hp/bin/Debug/net5.0/hp.runtimeconfig.json
+/home/harshit/Desktop/C#/hp/bin/Debug/net5.0/hp.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/hp/bin/Debug/net5.0/hp.dll
+/home/harshit/Desktop/C#/hp/bin/Debug/net5.0/ref/hp.dll
+/home/harshit/Desktop/C#/hp/bin/Debug/net5.0/hp.pdb
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.AssemblyInfo.cs
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.dll
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/ref/hp.dll
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.pdb
+/home/harshit/Desktop/C#/hp/obj/Debug/net5.0/hp.genruntimeconfig.cache

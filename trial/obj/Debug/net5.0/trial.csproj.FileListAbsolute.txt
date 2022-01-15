@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/trial/bin/Debug/net5.0/trial
+/home/harshit/Desktop/C#/trial/bin/Debug/net5.0/trial.deps.json
+/home/harshit/Desktop/C#/trial/bin/Debug/net5.0/trial.runtimeconfig.json
+/home/harshit/Desktop/C#/trial/bin/Debug/net5.0/trial.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/trial/bin/Debug/net5.0/trial.dll
+/home/harshit/Desktop/C#/trial/bin/Debug/net5.0/ref/trial.dll
+/home/harshit/Desktop/C#/trial/bin/Debug/net5.0/trial.pdb
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.AssemblyInfo.cs
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.dll
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/ref/trial.dll
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.pdb
+/home/harshit/Desktop/C#/trial/obj/Debug/net5.0/trial.genruntimeconfig.cache

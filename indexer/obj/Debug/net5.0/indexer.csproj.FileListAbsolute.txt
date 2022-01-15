@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/indexer/bin/Debug/net5.0/indexer
+/home/harshit/Desktop/C#/indexer/bin/Debug/net5.0/indexer.deps.json
+/home/harshit/Desktop/C#/indexer/bin/Debug/net5.0/indexer.runtimeconfig.json
+/home/harshit/Desktop/C#/indexer/bin/Debug/net5.0/indexer.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/indexer/bin/Debug/net5.0/indexer.dll
+/home/harshit/Desktop/C#/indexer/bin/Debug/net5.0/ref/indexer.dll
+/home/harshit/Desktop/C#/indexer/bin/Debug/net5.0/indexer.pdb
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.AssemblyInfo.cs
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.dll
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/ref/indexer.dll
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.pdb
+/home/harshit/Desktop/C#/indexer/obj/Debug/net5.0/indexer.genruntimeconfig.cache

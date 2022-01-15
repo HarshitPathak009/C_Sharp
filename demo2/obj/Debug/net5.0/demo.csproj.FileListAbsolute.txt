@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/demo2/bin/Debug/net5.0/demo
+/home/harshit/Desktop/C#/demo2/bin/Debug/net5.0/demo.deps.json
+/home/harshit/Desktop/C#/demo2/bin/Debug/net5.0/demo.runtimeconfig.json
+/home/harshit/Desktop/C#/demo2/bin/Debug/net5.0/demo.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/demo2/bin/Debug/net5.0/demo.dll
+/home/harshit/Desktop/C#/demo2/bin/Debug/net5.0/ref/demo.dll
+/home/harshit/Desktop/C#/demo2/bin/Debug/net5.0/demo.pdb
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.AssemblyInfo.cs
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.dll
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/ref/demo.dll
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.pdb
+/home/harshit/Desktop/C#/demo2/obj/Debug/net5.0/demo.genruntimeconfig.cache

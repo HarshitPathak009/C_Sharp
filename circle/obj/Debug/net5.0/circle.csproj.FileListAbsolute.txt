@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.AssemblyInfo.cs
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/circle/bin/Debug/net5.0/circle
+/home/harshit/Desktop/C#/circle/bin/Debug/net5.0/circle.deps.json
+/home/harshit/Desktop/C#/circle/bin/Debug/net5.0/circle.runtimeconfig.json
+/home/harshit/Desktop/C#/circle/bin/Debug/net5.0/circle.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/circle/bin/Debug/net5.0/circle.dll
+/home/harshit/Desktop/C#/circle/bin/Debug/net5.0/ref/circle.dll
+/home/harshit/Desktop/C#/circle/bin/Debug/net5.0/circle.pdb
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.dll
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/ref/circle.dll
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.pdb
+/home/harshit/Desktop/C#/circle/obj/Debug/net5.0/circle.genruntimeconfig.cache

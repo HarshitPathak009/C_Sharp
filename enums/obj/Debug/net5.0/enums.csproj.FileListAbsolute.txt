@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/enums/bin/Debug/net5.0/enums
+/home/harshit/Desktop/C#/enums/bin/Debug/net5.0/enums.deps.json
+/home/harshit/Desktop/C#/enums/bin/Debug/net5.0/enums.runtimeconfig.json
+/home/harshit/Desktop/C#/enums/bin/Debug/net5.0/enums.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/enums/bin/Debug/net5.0/enums.dll
+/home/harshit/Desktop/C#/enums/bin/Debug/net5.0/ref/enums.dll
+/home/harshit/Desktop/C#/enums/bin/Debug/net5.0/enums.pdb
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.AssemblyInfo.cs
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.dll
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/ref/enums.dll
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.pdb
+/home/harshit/Desktop/C#/enums/obj/Debug/net5.0/enums.genruntimeconfig.cache

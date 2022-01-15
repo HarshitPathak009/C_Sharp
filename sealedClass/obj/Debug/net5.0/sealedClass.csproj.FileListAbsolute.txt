@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.AssemblyInfo.cs
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/sealedClass/bin/Debug/net5.0/sealedClass
+/home/harshit/Desktop/C#/sealedClass/bin/Debug/net5.0/sealedClass.deps.json
+/home/harshit/Desktop/C#/sealedClass/bin/Debug/net5.0/sealedClass.runtimeconfig.json
+/home/harshit/Desktop/C#/sealedClass/bin/Debug/net5.0/sealedClass.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/sealedClass/bin/Debug/net5.0/sealedClass.dll
+/home/harshit/Desktop/C#/sealedClass/bin/Debug/net5.0/ref/sealedClass.dll
+/home/harshit/Desktop/C#/sealedClass/bin/Debug/net5.0/sealedClass.pdb
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.dll
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/ref/sealedClass.dll
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.pdb
+/home/harshit/Desktop/C#/sealedClass/obj/Debug/net5.0/sealedClass.genruntimeconfig.cache

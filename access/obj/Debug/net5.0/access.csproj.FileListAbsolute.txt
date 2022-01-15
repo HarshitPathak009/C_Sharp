@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/access/bin/Debug/net5.0/access
+/home/harshit/Desktop/C#/access/bin/Debug/net5.0/access.deps.json
+/home/harshit/Desktop/C#/access/bin/Debug/net5.0/access.runtimeconfig.json
+/home/harshit/Desktop/C#/access/bin/Debug/net5.0/access.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/access/bin/Debug/net5.0/access.dll
+/home/harshit/Desktop/C#/access/bin/Debug/net5.0/ref/access.dll
+/home/harshit/Desktop/C#/access/bin/Debug/net5.0/access.pdb
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.AssemblyInfo.cs
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.dll
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/ref/access.dll
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.pdb
+/home/harshit/Desktop/C#/access/obj/Debug/net5.0/access.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/harshit/bin/Debug/net5.0/harshit
+/home/harshit/Desktop/C#/harshit/bin/Debug/net5.0/harshit.deps.json
+/home/harshit/Desktop/C#/harshit/bin/Debug/net5.0/harshit.runtimeconfig.json
+/home/harshit/Desktop/C#/harshit/bin/Debug/net5.0/harshit.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/harshit/bin/Debug/net5.0/harshit.dll
+/home/harshit/Desktop/C#/harshit/bin/Debug/net5.0/ref/harshit.dll
+/home/harshit/Desktop/C#/harshit/bin/Debug/net5.0/harshit.pdb
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.AssemblyInfo.cs
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.dll
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/ref/harshit.dll
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.pdb
+/home/harshit/Desktop/C#/harshit/obj/Debug/net5.0/harshit.genruntimeconfig.cache

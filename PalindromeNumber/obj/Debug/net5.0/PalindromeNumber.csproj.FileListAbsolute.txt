@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.AssemblyInfo.cs
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/PalindromeNumber/bin/Debug/net5.0/PalindromeNumber
+/home/harshit/Desktop/C#/PalindromeNumber/bin/Debug/net5.0/PalindromeNumber.deps.json
+/home/harshit/Desktop/C#/PalindromeNumber/bin/Debug/net5.0/PalindromeNumber.runtimeconfig.json
+/home/harshit/Desktop/C#/PalindromeNumber/bin/Debug/net5.0/PalindromeNumber.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/PalindromeNumber/bin/Debug/net5.0/PalindromeNumber.dll
+/home/harshit/Desktop/C#/PalindromeNumber/bin/Debug/net5.0/ref/PalindromeNumber.dll
+/home/harshit/Desktop/C#/PalindromeNumber/bin/Debug/net5.0/PalindromeNumber.pdb
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.dll
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/ref/PalindromeNumber.dll
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.pdb
+/home/harshit/Desktop/C#/PalindromeNumber/obj/Debug/net5.0/PalindromeNumber.genruntimeconfig.cache

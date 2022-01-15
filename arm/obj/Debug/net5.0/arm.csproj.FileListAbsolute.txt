@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.AssemblyInfo.cs
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/arm/bin/Debug/net5.0/arm
+/home/harshit/Desktop/C#/arm/bin/Debug/net5.0/arm.deps.json
+/home/harshit/Desktop/C#/arm/bin/Debug/net5.0/arm.runtimeconfig.json
+/home/harshit/Desktop/C#/arm/bin/Debug/net5.0/arm.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/arm/bin/Debug/net5.0/arm.dll
+/home/harshit/Desktop/C#/arm/bin/Debug/net5.0/ref/arm.dll
+/home/harshit/Desktop/C#/arm/bin/Debug/net5.0/arm.pdb
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.dll
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/ref/arm.dll
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.pdb
+/home/harshit/Desktop/C#/arm/obj/Debug/net5.0/arm.genruntimeconfig.cache

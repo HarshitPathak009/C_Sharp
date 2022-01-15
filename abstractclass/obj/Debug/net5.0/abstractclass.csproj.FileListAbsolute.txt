@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.AssemblyInfo.cs
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/abstractclass/bin/Debug/net5.0/abstractclass
+/home/harshit/Desktop/C#/abstractclass/bin/Debug/net5.0/abstractclass.deps.json
+/home/harshit/Desktop/C#/abstractclass/bin/Debug/net5.0/abstractclass.runtimeconfig.json
+/home/harshit/Desktop/C#/abstractclass/bin/Debug/net5.0/abstractclass.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/abstractclass/bin/Debug/net5.0/abstractclass.dll
+/home/harshit/Desktop/C#/abstractclass/bin/Debug/net5.0/ref/abstractclass.dll
+/home/harshit/Desktop/C#/abstractclass/bin/Debug/net5.0/abstractclass.pdb
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.dll
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/ref/abstractclass.dll
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.pdb
+/home/harshit/Desktop/C#/abstractclass/obj/Debug/net5.0/abstractclass.genruntimeconfig.cache

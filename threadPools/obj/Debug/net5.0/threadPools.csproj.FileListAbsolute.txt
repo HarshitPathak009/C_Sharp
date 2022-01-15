@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.AssemblyInfo.cs
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/threadPools/bin/Debug/net5.0/threadPools
+/home/harshit/Desktop/C#/threadPools/bin/Debug/net5.0/threadPools.deps.json
+/home/harshit/Desktop/C#/threadPools/bin/Debug/net5.0/threadPools.runtimeconfig.json
+/home/harshit/Desktop/C#/threadPools/bin/Debug/net5.0/threadPools.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/threadPools/bin/Debug/net5.0/threadPools.dll
+/home/harshit/Desktop/C#/threadPools/bin/Debug/net5.0/ref/threadPools.dll
+/home/harshit/Desktop/C#/threadPools/bin/Debug/net5.0/threadPools.pdb
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.dll
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/ref/threadPools.dll
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.pdb
+/home/harshit/Desktop/C#/threadPools/obj/Debug/net5.0/threadPools.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/delegates/bin/Debug/net5.0/delegates
+/home/harshit/Desktop/C#/delegates/bin/Debug/net5.0/delegates.deps.json
+/home/harshit/Desktop/C#/delegates/bin/Debug/net5.0/delegates.runtimeconfig.json
+/home/harshit/Desktop/C#/delegates/bin/Debug/net5.0/delegates.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/delegates/bin/Debug/net5.0/delegates.dll
+/home/harshit/Desktop/C#/delegates/bin/Debug/net5.0/ref/delegates.dll
+/home/harshit/Desktop/C#/delegates/bin/Debug/net5.0/delegates.pdb
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.AssemblyInfo.cs
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.dll
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/ref/delegates.dll
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.pdb
+/home/harshit/Desktop/C#/delegates/obj/Debug/net5.0/delegates.genruntimeconfig.cache

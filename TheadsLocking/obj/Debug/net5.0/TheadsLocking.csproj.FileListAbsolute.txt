@@ -1,0 +1,16 @@
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.csproj.AssemblyReference.cache
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.GeneratedMSBuildEditorConfig.editorconfig
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.AssemblyInfoInputs.cache
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.AssemblyInfo.cs
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.csproj.CoreCompileInputs.cache
+/home/harshit/Desktop/C#/TheadsLocking/bin/Debug/net5.0/TheadsLocking
+/home/harshit/Desktop/C#/TheadsLocking/bin/Debug/net5.0/TheadsLocking.deps.json
+/home/harshit/Desktop/C#/TheadsLocking/bin/Debug/net5.0/TheadsLocking.runtimeconfig.json
+/home/harshit/Desktop/C#/TheadsLocking/bin/Debug/net5.0/TheadsLocking.runtimeconfig.dev.json
+/home/harshit/Desktop/C#/TheadsLocking/bin/Debug/net5.0/TheadsLocking.dll
+/home/harshit/Desktop/C#/TheadsLocking/bin/Debug/net5.0/ref/TheadsLocking.dll
+/home/harshit/Desktop/C#/TheadsLocking/bin/Debug/net5.0/TheadsLocking.pdb
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.dll
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/ref/TheadsLocking.dll
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.pdb
+/home/harshit/Desktop/C#/TheadsLocking/obj/Debug/net5.0/TheadsLocking.genruntimeconfig.cache
